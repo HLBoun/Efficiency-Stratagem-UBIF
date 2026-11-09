@@ -34,7 +34,7 @@ This document will highlight strategies for increasing productivity and efficien
   Examples:   
     - Trace Repair.   
     - IC Chips.  
-    - Advanced Troubleshooting & Salvage [BoardRipper etc.]  
+    - Advanced Troubleshooting & Salvage [BoardRipper, multimeter, etc.]  
     - Non-HDMI ports  
       
   This will allow everyone to be interdependent AND we can teach other after enough time.  
@@ -45,7 +45,19 @@ This document will highlight strategies for increasing productivity and efficien
   [I wanna be Laptop Laddy].  
   Yes, we should be doing ALL multidays but this system would help us move forward a bit more. I see people, including myself, pick something up and go "theres no way I'm allowed/able to do this"
 ### Questions by Employees
-    - Giving Roles helps this as well.
+  - Giving Roles helps this as well.
+  - More written guides?
+  - Genuinely enforce Google more
+  - Create little mnemonics
+  - BETTER NOTES
+### Previous Repair Warranty
+We waste a ton a ton a TON of time on warranty repairs, or breaking something mid repair.
+  - Remind employees not to rush.
+      Frankly, Daniel rushes through multi-day repairs by using brute force, resulting in reordering parts and wasted time. He doesnt send it out though.
+      Henok rushes through console repairs as he's lowkey always in a panic state, then adds on to it by quoting same day for ATC.
+      Legend just has a skill issue, no excuse.
+      It is important to note that we are definitely so used to phone delivery time that multi-day repair time feels like were going to get punched in the throat.
+  - Track warranty and reward us?
+  - Again, applying roles to people will help this.
   - 
-  
   
