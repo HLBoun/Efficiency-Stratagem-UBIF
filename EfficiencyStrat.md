@@ -1,7 +1,7 @@
 # Efficiency Stratagem for UBIF Spring Hill
 This document will highlight strategies for increasing productivity and efficiency at the Spring Hill location.
 
-## Culprits of efficiency decline
+## <ins>Culprits of efficiency decline<ins/>
   - CX calling about in-progress phones
   - CX walking in to check in-progress phones
   - CX calling about multis
@@ -12,7 +12,7 @@ This document will highlight strategies for increasing productivity and efficien
   - Questions by CX
   - Broken by tech escalations
 
-## Plans of Action
+## <ins>Plans of Action<ins/>
 ### CX & In-Progress Phones
   - Pagers, flip-phones, Meshtastic
       No longer getting up to check on a customer that is going to walk right back out.
