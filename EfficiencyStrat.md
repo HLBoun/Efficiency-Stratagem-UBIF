@@ -30,9 +30,9 @@ This document will highlight strategies for increasing productivity and efficien
   Yes we should all do HDMI's, but When it comes to advanced solder repairs it always escalates to you.
   You need to train us to become your limbs, not you. We do not have time to become as generally skilled as you.  
   <ins>Give each employee a role with advanced soldering and teach them a relatively short curriculum.</ins>. 
-  Examples:  
-    - Trace Repair. 
-    - IC Chips. 
+  Examples:   
+    - Trace Repair.   
+    - IC Chips.  
     - Advanced Troubleshooting & Salvage [BoardRipper etc.]. 
     - Non-HDMI ports. 
   This will allow everyone to be interdependent AND we can teach other after enough time.
