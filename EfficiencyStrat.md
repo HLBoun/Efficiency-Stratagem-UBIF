@@ -24,7 +24,7 @@ This document will highlight strategies for increasing productivity and efficien
   - 5 Days instead of 3-5
       Should be a singular number as CX only hear '3'
 ### Lacking True Roles
-  ***This one is important***\
+  <ins>***This one is important***</ins>\
   Only you can do everything needed to run the store, but that runs you ragged.
   Assigning *roles* to employees may increase their likelihood of starting and finishing multis.
   Yes we should all do HDMI's, but When it comes to advanced solder repairs it always escalates to you.
