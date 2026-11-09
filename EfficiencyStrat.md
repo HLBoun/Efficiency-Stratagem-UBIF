@@ -10,3 +10,7 @@ This document will highlight strategies for increasing productivity and efficien
   - Questions by CX
   - Questions by employees
   - Lacking true roles
+  - Broken by tech escalations
+
+## Plans of Action
+### CX & In-Progress Phones
