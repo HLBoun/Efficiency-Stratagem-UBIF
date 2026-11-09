@@ -15,4 +15,8 @@ This document will highlight strategies for increasing productivity and efficien
 ## Plans of Action
 ### CX & In-Progress Phones
   - Pagers, flip-phones, Meshtastic
+### CX & Multis
+  - Longer quotes on TAT
+  - 5 Days instead of 3-5
+      Should be a singular number as CX only take the shortest.
   - 
