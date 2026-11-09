@@ -42,6 +42,10 @@ This document will highlight strategies for increasing productivity and efficien
   **<ins>This applies to general repair as well. The guys look at the shelf and get intimidated by the variety and choose the safe option.</ins>**  
   If you make Henok "the console kid" he will happily tackle a diagnosis and repair for a console with a strange issue.  
   If you make Daniel "Tablet Man" he will eventually build up more muscle memory and niche wisdom that he can impart upon others.  
-  
+  [I wanna be Laptop Laddy].  
+  Yes, we should be doing ALL multidays but this system would help us move forward a bit more. I see people, including myself, pick something up and go "theres no way I'm allowed/able to do this"
+### Questions by Employees
+    - Giving Roles helps this as well.
+  - 
   
   
