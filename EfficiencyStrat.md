@@ -24,17 +24,17 @@ This document will highlight strategies for increasing productivity and efficien
   - 5 Days instead of 3-5
       Should be a singular number as CX only hear '3'
 ### Lacking True Roles
-  <ins>***This one is important***</ins>\
+  <ins>***This one is important***</ins>. 
   Only you can do everything needed to run the store, but that runs you ragged.
   Assigning *roles* to employees may increase their likelihood of starting and finishing multis.
   Yes we should all do HDMI's, but When it comes to advanced solder repairs it always escalates to you.
-  You need to train us to become your limbs, not you. We do not have time to become as generally skilled as you.\
-  <ins>Give each employee a role with advanced soldering and teach them a relatively short curriculum.</ins>\
-  Examples:\
-    - Trace Repair\
-    - IC Chips\
-    - Advanced Troubleshooting & Salvage [BoardRipper etc.]\
-    - Non-HDMI ports\
+  You need to train us to become your limbs, not you. We do not have time to become as generally skilled as you.  
+  <ins>Give each employee a role with advanced soldering and teach them a relatively short curriculum.</ins>. 
+  Examples:  
+    - Trace Repair. 
+    - IC Chips. 
+    - Advanced Troubleshooting & Salvage [BoardRipper etc.]. 
+    - Non-HDMI ports. 
   This will allow everyone to be interdependent AND we can teach other after enough time.
   Trace repair and IC only share the foundational thinking, not skillset. There is no reason to teach on a 'perk unlock' system.
   **This applies to general repair as well. The guys look at the shelf and get intimidated by the variety and choose the safe option.**
