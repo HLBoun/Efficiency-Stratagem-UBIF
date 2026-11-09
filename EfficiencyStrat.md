@@ -14,3 +14,5 @@ This document will highlight strategies for increasing productivity and efficien
 
 ## Plans of Action
 ### CX & In-Progress Phones
+  - Pagers, flip-phones, Meshtastic
+  - 
