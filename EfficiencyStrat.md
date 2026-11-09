@@ -35,11 +35,11 @@ This document will highlight strategies for increasing productivity and efficien
     - IC Chips.  
     - Advanced Troubleshooting & Salvage [BoardRipper etc.]  
     - Non-HDMI ports  
-  This will allow everyone to be interdependent AND we can teach other after enough time.
+  This will allow everyone to be interdependent AND we can teach other after enough time.  
   Trace repair and IC only share the foundational thinking, not skillset. There is no reason to teach on a 'perk unlock' system.  
-  **This applies to general repair as well. The guys look at the shelf and get intimidated by the variety and choose the safe option.**  
-  If you make Henok "the console kid" he will happily tackle a diagnosis and repair for a console with a strange issue.
-  If you make Daniel "Tablet Man" he will have a strange sense of responsibility towards making sure they're done. Just like we all do for single-day phones.
+  **<ins>This applies to general repair as well. The guys look at the shelf and get intimidated by the variety and choose the safe option.</ins>**  
+  If you make Henok "the console kid" he will happily tackle a diagnosis and repair for a console with a strange issue.  
+  If you make Daniel "Tablet Man" he will have a strange sense of responsibility towards making sure they're done. Just like we all do for single-day phones.  
   
   
   
