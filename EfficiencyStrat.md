@@ -72,6 +72,8 @@ We waste a ton a ton a TON of time on warranty repairs, or breaking something mi
 Specifically when we break something and have to call mom to fix it. Like "i missed the bus" or "i frew up mummy." This really harms you time wise. Every time this happens it's like a multi-day coming in.
   - Again having roles would help this a lot.
   - I dont have much for this.
-## <ins>Volume Intake vs Cash Balancing<ins/>
+## <ins>Intake Volume vs. Cash Balancing<ins/>
+### Non-HDMI Solder
+We charge way too little for non-HDMI solder repairs. Yes, I know the margins for them are extremely large but our customers don't know that. Did you know the largest margin on any item sold at a restaurant is the fountain drinks? Do we happily pay 4 dollars for a large Coke when it cost them 32 cents. The concept applies here. To customers, the item is bricked unless WE fix it. There is nobody nearby that can do these repairs. The same way that if I said your car's fuel pump is dead, you don't care about the margins youre gonna pay whatever sounds reasonable to fix it. It also allows us more rebate room for ATC. 
 
   
