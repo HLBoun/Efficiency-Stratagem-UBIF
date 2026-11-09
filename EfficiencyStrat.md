@@ -14,8 +14,8 @@ This document will highlight strategies for increasing productivity and efficien
 
 ## <ins>Plans of Action<ins/>
 ### CX & In-Progress Phones
-  - Pagers, flip-phones, Meshtastic
-      No longer getting up to check on a customer that is going to walk right back out.
+  - Pagers, flip-phones, Meshtastic  
+      No longer getting up to check on a customer that is going to walk right back out.  
       I am willing to pay for these out of my own pocket if it means not getting up for this again.
   - Security Monitoring
       We have the Ring already set up. We should easily be able to view when its just UPS
