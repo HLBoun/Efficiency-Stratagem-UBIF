@@ -28,8 +28,8 @@ This document will highlight strategies for increasing productivity and efficien
   Only you can do everything needed to run the store, but that runs you ragged.
   Assigning *roles* to employees may increase their likelihood of starting and finishing multis.
   Yes we should all do HDMI's, but When it comes to advanced solder repairs it always escalates to you.
-  You need to train us to become your limbs, not you. We do not have time to become as generally skilled as you.
-  Give each employee a role with advanced soldering and teach them a relatively short curriculum.\
+  You need to train us to become your limbs, not you. We do not have time to become as generally skilled as you.\
+  <ins>Give each employee a role with advanced soldering and teach them a relatively short curriculum.</ins>\
   Examples:\
     - Trace Repair\
     - IC Chips\
